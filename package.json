@@ -1,0 +1,16 @@
+{
+  "name": "clone-tabnews-evol",
+  "version": "1.0.0",
+  "description": "Este repositório, diferente dos repositórios de reviews (rw) será  evoluído (evol) de acordo com o projeto original.",
+  "main": "index.js",
+  "scripts": {
+    "dev": "next dev"
+  },
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^15.3.1",
+    "react": "^19.1.0",
+    "react-dom": "^19.1.0"
+  }
+}
